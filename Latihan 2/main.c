@@ -1,7 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/*							SOAL
+	Berat badan ideal ada hubunganya dengan tinggi badan seseorang. Untuk
+	menentukan berat badan ideal, tinggi badan dikurangi 100, lalu dikurangi lagi dengan 10%
+	dari hasil pengurangan pertama. Tulislah algoritma yang membaca tinggi badan dan berat badan seseorang.
+	kemudian tulislah pesan "ideal" jika berat badan orang tersebut hanya berselisih 2 kg dari berat badan ideal, atau
+	pesan "tidak ideal" jika tidak berselisih 2 kg dari berat badan ideal.
+*/
 
 int main(int argc, char *argv[])
 {
