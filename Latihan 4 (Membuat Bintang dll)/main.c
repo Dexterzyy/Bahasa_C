@@ -155,6 +155,12 @@ int main(int argc, char *argv[])
 									}
 								break;
 								
+								default :
+									{
+										printf("\n\tMenu tidak ada !");
+									}
+								break;
+								
 							} getch();
 						} while(menu2 != 4);
 					}
